@@ -12,9 +12,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
  ### Studying in this moment:
- ![C#](https://img.shields.io/badge/-C%20Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node&logoColor=purple&labelColor=0D1117)&nbsp;
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+ ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next&logoColor=purple&labelColor=0D1117)&nbsp;
  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
   
   ![Snake animation](https://github.com/kenzolordelo/kenzolordelo/blob/output/github-contribution-grid-snake.svg)
